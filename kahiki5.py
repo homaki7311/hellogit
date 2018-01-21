@@ -17,11 +17,19 @@ tokkyo = []
 
 tokkyo = [9876543, 'MC1','MC2','MC3']
 
-
 test1(*kahiki)
 
 kahiki = []
 kahiki.append('QCM')
 
 tokkyo =[1234567,'QCM']
+test1(*kahiki)
+
+kahiki = []
+kahiki.append('XCA')
+kahiki.append('XCB')
+kahiki.append('xcs')
+
+tokkyo = []
+tokkyo = [6791243,'XCM','XCS']
 test1(*kahiki)
